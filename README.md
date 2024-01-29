@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Education<br>- Master's in Industrial Engineering, focusing Data Science and Machine Learning at Northeastern University<br><br>💼 Professional Snapshot<br>- Current Graduate Teaching Assistant for Machine Learning Course<br>- 4+ years of industry experience<br><br>🔬 Current Exploration<br>- Delving into MLOps, Deep Learning & Neural Networks<br><br>📧 Get in Touch<br>- Reach me at [kathed.m@Northeastern.edu](mailto:kathed.m@Northeastern.edu)<br><br>🎯 Career Aspirations<br>- Actively seeking full-time roles in Data Science and Machine Learning, starting May 2024<br><br>☕ Fun Fact: <br>- Tea's flavor beats coffee's for me</p>
+<p align="left">🎓 Education<br>- Master's in Industrial Engineering, focusing Data Science and Machine Learning at Northeastern University<br><br>💼 Professional Snapshot<br>- Current Graduate Teaching Assistant for Machine Learning Course<br>- 4+ years of industry experience<br><br>🔬 Current Exploration<br>- Delving into MLOps, Deep Learning & Neural Networks<br><br>📧 Get in Touch<br>- Reach me at kathed.m@Northeastern.edu<br><br>🎯 Career Aspirations<br>- Actively seeking full-time roles in Data Science and Machine Learning, starting May 2024<br><br>☕ Fun Fact: <br>- Tea's flavor beats coffee's for me</p>
 
 ###
 
@@ -39,6 +39,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
@@ -68,8 +70,6 @@
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
 </div>
 
 ###
