@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Education<br>- Master's in Industrial Engineering, focusing Data Science and Machine Learning at Northeastern University<br><br>💼 Professional Snapshot<br>- Current Graduate Teaching Assistant for Machine Learning Course<br>- 4+ years of industry experience<br><br>🔬 Current Exploration<br>- Delving into MLOps, Deep Learning & Neural Networks<br><br>📧 Get in Touch<br>- Reach me at <a href="mailto:kathed.m@Northeastern.edu">kathed.m@Northeastern.edu</a><br><br>🎯 Career Aspirations<br>- Actively seeking full-time roles in Data Science and Machine Learning, starting May 2024<br><br>☕ Fun Fact: <br>- Tea's flavor beats coffee's for me</p>
+<p align="left">🎓 Education<br>- Master's in Industrial Engineering, focusing Data Science and Machine Learning at Northeastern University<br><br>💼 Professional Snapshot<br>- Current Graduate Teaching Assistant for Machine Learning Course<br>- 3+ years of industry experience<br><br>🔬 Current Exploration<br>- Delving into MLOps, Deep Learning & Neural Networks<br><br>📧 Get in Touch<br>- Reach me at <a href="mailto:kathed.m@Northeastern.edu">kathed.m@Northeastern.edu</a><br><br>🎯 Career Aspirations<br>- Actively seeking full-time roles in Data Science and Machine Learning, starting May 2024<br><br>☕ Fun Fact: <br>- Tea's flavor beats coffee's for me</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahavirK1997&color=blue)
 
